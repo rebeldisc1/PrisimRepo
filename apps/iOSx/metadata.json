@@ -2,7 +2,7 @@
     "id": "xyz.rbd.iOSx",
     "name": "iOSx",
     "description": "lol",
-    "icon": "https://raw.githubusercontent.com/rebeldisc1/prisimrepo/main/apps/iOSx/Appiconimage.png",
+    "icon": "https://github.com/rebeldisc1/PrisimRepo/blob/main/apps/iOSx/Appiconimage.png?raw=true",
     "screenshots": [
         "https://raw.githubusercontent.com/username/PrisimApps/main/Apps/iOSx/Screenshot1.png",
         "https://raw.githubusercontent.com/username/PrisimApps/main/Apps/iOSx/Screenshot2.png"
