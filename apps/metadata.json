@@ -1,10 +1,7 @@
 {
-    "id": "xyz.rbd.iOSx",
-    "name": "iOSx",
-    "description": "lol",
-    "icon": "https://raw.githubusercontent.com/rebeldisc1/PrisimRepo/refs/heads/main/apps/iOSx/Appiconimage.png",
-    "screenshots": [
-    ],
-    "version": "1.0",
-    "ipa": ""
+    "app1": "iOSx",
+    "app1metalink": "https://raw.githubusercontent.com/rebeldisc1/PrisimRepo/main/apps/iOSx/metadata.json",
+    "app2": "tvOSx",
+    "app2metalink": "https://raw.githubusercontent.com/rebeldisc1/PrisimRepo/main/apps/iOSx/metadata.json",
+
 }
